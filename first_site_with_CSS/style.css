@@ -1,0 +1,60 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu_links {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px
+}
+
+.title {
+    color: #099433;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.title_h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.images_about {
+    border-radius: 400px;
+    width: 400px;
+    height: 300px;
+}
+
+.enter_ticket {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 2px solid #e673a8;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.button_tcket {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px
+}
