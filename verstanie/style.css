@@ -113,9 +113,9 @@
     }
     
     .content .logo .logo_1 .logoipsum {
-        position: absolute;
-        top: 885px;
-        left: 150px;
+        position: relative;
+        top: -50px;
+        left: 80px;
     }
     
     .content .logo .logo_1 .logoipsum .L {
@@ -170,9 +170,9 @@
     }
     
     .content .logo .logo_1 .tech {
-        position: absolute;
-        top: 908px;
-        left: 150px;
+        position: relative;
+        top: -30px;
+        left: 80px;
     }
     
     .content .logo .logo_1 .tech .T {
@@ -220,4 +220,69 @@
         position: absolute;
         left: 76px;
         top: 17px;
+    }
+    
+    .content .logo .logo_2 {
+        width: 212.3px;
+        height: 59px;
+    }
+    
+    .content .logo .logo_2 .text_logo {
+        position: relative;
+        top: -40px;
+        left: 300px;
+    }
+    
+    .content .logo .logo_2 .text_logo .L {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    
+    .content .logo .logo_2 .text_logo .O {
+        position: absolute;
+        top: 5px;
+        left: 14px;
+    }
+    
+    .content .logo .logo_2 .text_logo .G {
+        position: absolute;
+        top: 5px;
+        left: 32px;
+    }
+    
+    .content .logo .logo_2 .text_logo .O2 {
+        position: absolute;
+        top: 5px;
+        left: 50px;
+    }
+    
+    .content .logo .logo_2 .vector_front {
+        position: relative;
+        top: -40px;
+        left: 330px;
+    }
+    
+    .content .logo .logo_2 .vector_front .front1 {
+        position: absolute;
+        top: -2px;
+        left: 69px;
+    }
+    
+    .content .logo .logo_2 .vector_front .front2 {
+        position: absolute;
+        top: 17px;
+        left: 71px;
+    }
+    
+    .content .logo .logo_2 .vector_front .front3 {
+        position: absolute;
+        top: 20px;
+        left: 56px;
+    }
+    
+    .content .logo .logo_2 .vector_front .front4 {
+        position: absolute;
+        top: 5px;
+        left: 50px;
     }
