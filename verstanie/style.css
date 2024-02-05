@@ -84,23 +84,140 @@
     .content .logo {
         width: 100%;
         padding-top: 197px;
+        padding-bottom: 99px;
         height: 59px;
+    }
+    
+    .content .logo .logo_1 {
+        width: 217.64px;
+        height: 58.9px;
+    }
+    
+    .content .logo .logo_1 .vector_img_1 {
+        width: 67.79px;
+        height: 58.9px;
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    
+    .content .logo .logo_1 .vector_img_1 .pv {
+        left: 30px;
         position: absolute;
     }
     
-    .logo .logo_1 {
-        width: 217.64px;
-        height: 58.9px;
-        position: relative;
-    }
-    
-    .logo .logo_1 .vector_img_1 img {}
-    
-    .logo .logo_1 .vector_img_1 .pv {
-        left: 30px;
-    }
-    
-    .logo .logo_1 .vector_img_1 .down {
-        top: 30px;
+    .content .logo .logo_1 .vector_img_1 .down {
         left: 10px;
+        top: 30px;
+        position: absolute;
+    }
+    
+    .content .logo .logo_1 .logoipsum {
+        position: absolute;
+        top: 885px;
+        left: 150px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .L {
+        position: absolute;
+    }
+    
+    .content .logo .logo_1 .logoipsum .O {
+        position: absolute;
+        left: 17px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .G {
+        position: absolute;
+        left: 32px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .O2 {
+        position: absolute;
+        left: 47px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .I {
+        position: absolute;
+        left: 64px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .P {
+        position: absolute;
+        left: 73px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .S {
+        position: absolute;
+        left: 89px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .U {
+        position: absolute;
+        left: 103px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .logoipsum .M {
+        position: absolute;
+        left: 120px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .tech {
+        position: absolute;
+        top: 908px;
+        left: 150px;
+    }
+    
+    .content .logo .logo_1 .tech .T {
+        position: absolute;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .tech .E {
+        position: absolute;
+        left: 10px;
+        top: 8px;
+    }
+    
+    .content .logo .logo_1 .tech .C {
+        position: absolute;
+        left: 21px;
+        top: 8px;
+    }
+    
+    .content .logo .logo_1 .tech .H {
+        position: absolute;
+        left: 31px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .tech .dog {
+        position: absolute;
+        left: 42px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .tech .C2 {
+        position: absolute;
+        left: 53px;
+        top: 5px;
+    }
+    
+    .content .logo .logo_1 .tech .O3 {
+        position: absolute;
+        left: 64px;
+        top: 8px;
+    }
+    
+    .content .logo .logo_1 .tech .point {
+        position: absolute;
+        left: 76px;
+        top: 17px;
     }
